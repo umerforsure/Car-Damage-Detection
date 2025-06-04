@@ -1,0 +1,7 @@
+ultralytics==8.0.20
+gradio==4.19.2
+opencv-python
+matplotlib
+numpy
+pandas
+torch>=1.7

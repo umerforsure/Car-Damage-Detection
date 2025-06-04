@@ -1,0 +1,19 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+
+# Model weights
+*.pt
+
+# Colab or IPython-related
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+
+# Python environment
+.env
+
+# Editor configs
+.vscode/
+.idea/
